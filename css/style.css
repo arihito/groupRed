@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body,html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(#ccc, #eee);
+}
+#wrapper {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    background: #fff;
+    box-shadow: 0 0 10px #bbb;
+}
+h1 {
+    margin: 0;
+}
